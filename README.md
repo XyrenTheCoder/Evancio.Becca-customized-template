@@ -12,5 +12,6 @@ Put Becca's id inside:
 
 I used "bot" variable instead of "client" (i use that on iso6.9, read iso6.9's repo for its code), if you want to use client you can read isobot's original repo.
 
-# commands
 Its default prefix is `!` and its default command is `!help` and `!echo`.
+
+Remember to change the things in `<>` because its just a placeholder.
