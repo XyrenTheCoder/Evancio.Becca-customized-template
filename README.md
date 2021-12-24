@@ -18,5 +18,5 @@ Its default prefix is `!` and its default command is `!help` and `!echo`.
 
 Remember to change the things in `<>` because its just a placeholder.
 
-*Tags:*
-*discord.py, discord*
+*Hashtags:*
+*#discord.py #becca0.2 #evancio #templates*
