@@ -27,6 +27,9 @@ async def on_ready():
     print(f'<message you want it to show in terminal when bot is ready to use>')
     
 # help cmd
+bot.remove_command('help')
+    # above line removes the default crappy help command
+
 @bot.command(aliases=['help'])
 async def helplist(ctx):
     embed=discord.Embed(title="**<set a title for list>**", description="my prefix is: `!`", color=discord.Color.<choose a color e.g. blue>())
